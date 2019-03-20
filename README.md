@@ -1,12 +1,9 @@
 CAFE MOCHA (Clinical Association of Functionally Established MOlecular CHAnges)
 
 
-Neeraja M Krishnan1 , Mohanraj I1 , Janani Hariharan1 and Binay Panda1,2
+Neeraja M Krishnan, Mohanraj I , Janani Hariharan and Binay Panda
 
-1 Ganit Labs, Bio-IT Centre, Institute of Bioinformatics and Applied Biotechnology, 
- Bangalore, Karnataka 560100, India 
-2 Strand Life Sciences, Bangalore, Karnataka 560024, India
-
+Citation: Krishnan NM, Mohanraj I and Panda B*:  CAFE MOCHA: An Integrated Platform for Discovering Clinically Relevant Molecular Changes in Cancer, An Example of Distant Metastasis and Loco-Regional Recurrence-linked Classifiers in Head and Neck Squamous Cell Carcinoma. Journal of Clinical Oncology – Clinical Cancer Informatics; DOI: 10.1200/CCI.17.00045
 
 Revised: 13 Jan 2017
 
